@@ -6,6 +6,6 @@
 
 ### GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ertansadkaev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertansadkaev&layout=compact&hide_border=true" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertansadkaev&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
